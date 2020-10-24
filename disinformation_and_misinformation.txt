@@ -1,0 +1,60 @@
+part1 資料.
+
+これらの質を評価し,自動化する.<<それ自体が,違うことを語っていないのか,検証.>>
+https://chequeado.com/
+https://www.snopes.com/
+https://www.hoax-slayer.net/
+http://www.truthorfiction.com/
+
+specific
+https://africacheck.org/
+https://climatefeedback.org/
+https://www.politifact.com/
+https://www.newsguardtech.com/
+
+analyze
+https://tineye.com/
+https://trusted-news.com/ 
+https://reviewmeta.com/
+
+meta
+https://citizenevidence.org/
+https://reporterslab.org/fact-checking(map)
+
+
+
+
+専門的
+http://verificationhandbook.com/
+http://verificationjunkie.com/
+
+
+social_platformの試み(良い面と悪い面) ### 最新の状況()
+https://ai.facebook.com/blog/using-ai-to-detect-covid-19-misinformation-and-exploitative-content
+https://www.facebook.com/journalismproject/programs/third-party-fact-checking/how-it-works
+https://youtube.googleblog.com/2020/04/expanding-fact-checks-on-youtube-to-united-states.html
+https://about.instagram.com/blog/announcements/coronavirus-keeping-people-safe-informed-and-supported-on-instagram/
+https://www.bing.com/covid/
+https://www.buzzfeednews.com/article/laurenstrapagiel/black-lives-matter-tiktok-protests
+
+用語集
+Clickbait
+GDPR *** https://www.justsecurity.org/65795/how-data-privacy-laws-can-fight-fake-news/
+filtterbubble
+アドフラウド
+
+
+Part0==>> 技術者と話す.
+kit1: 一般にその個人のemailアドレスか電話番号が参照できなければ,本当の事実を導き出すことは難しいです.
+もしくは直接コンタクトを取り,調べることができなければ.
+
+kit2:基本的にそのサイトからどのような情報が得られるのか説明しているサイトは少ないです. 
+この時はcommunityに頼るか, tutorialを探すしかありません.
+きちんとした言語のレベルでのそのcontentの内容を精査(fakeかどうか)することは自ら,
+高速に行える必要がある. ==>> 自分でmachine_learningできるツールをつくる.
+((一つ一つのfacebook,flikrなどのツールからどのように取り出せるかをイメージするレベルになるかもしれない.)
+)
+
+https://medium.com/@raebaker/anatomy-of-a-puppy-scam-part-1-meet-layla-6028e38cea2c (詐欺師に関するOSINTの良いリソース)
+
+
